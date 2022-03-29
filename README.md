@@ -1,0 +1,1 @@
+My Calculator AppThis is a project exercise that I made, here I create an application with react native, and I create a To Do List application to make it easier to make plans in the future.
